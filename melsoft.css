@@ -1,0 +1,23 @@
+.card-body .mb-3 {
+    width: 15em;
+    height: 12em;
+}
+.rounded .mb-3 {
+    margin-left: 2em;
+    border-radius: 50%;
+}
+.rounded p {
+    color:rgb(200, 197, 197);
+}
+
+.col-md-4 img 
+{
+width: 8em;
+height: 3em;
+margin-left: 7em;
+margin-bottom: 3em;
+}
+.fbox-content p{
+    color: white;
+
+}
